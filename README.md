@@ -1,6 +1,6 @@
 # SAATHI — Screen-aware digital navigation assistant
 
-A hackathon-ready prototype for helping people navigate unfamiliar apps and websites. It has two modes:
+A prototype for helping people navigate unfamiliar apps and websites. It has two modes:
 
 1. **Live screen guidance** — share an app/browser window or upload a screenshot. With an OpenAI API key configured on the server, SAATHI analyzes the screenshot and explains the next safe action in plain English, Hindi or Bengali.
 2. **Guided practice demo** — an interactive mock train-ticket journey that works without an API key. It demonstrates step-by-step guidance, highlighted controls, validation, and a fake final confirmation. It does not book a real ticket or charge money.
