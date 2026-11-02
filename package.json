@@ -1,0 +1,12 @@
+{
+  "name": "saathi-digital-guide",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A screen-aware digital navigation assistant prototype",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18.17"
+  }
+}
